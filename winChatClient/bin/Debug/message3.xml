@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE message SYSTEM "message.dtd"><message><header><protocol><type>PelleMsg</type><version>1.0</version><command>CommandSendMsg</command></protocol><id><name>Micke</name><email>Micke@go.com</email><homepage>www.tfk.com</homepage><host>HostPelle</host></id></header><body>medelande av micke</body></message>

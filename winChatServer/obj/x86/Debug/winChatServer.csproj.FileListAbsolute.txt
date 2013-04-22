@@ -1,0 +1,15 @@
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\bin\Debug\winChatServer.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\bin\Debug\winChatServer.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\obj\x86\Debug\winChatServer.ServerForm.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\obj\x86\Debug\winChatServer.Properties.Resources.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\obj\x86\Debug\winChatServer.csproj.GenerateResource.Cache
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\obj\x86\Debug\winChatServer.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer\obj\x86\Debug\winChatServer.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\obj\x86\Debug\winChatServer.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\obj\x86\Debug\winChatServer.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\bin\Debug\winChatServer.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\bin\Debug\winChatServer.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\obj\x86\Debug\winChatServer.ServerForm.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\obj\x86\Debug\winChatServer.Properties.Resources.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\obj\x86\Debug\winChatServer.csproj.GenerateResource.Cache
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\xmlChatServerClient\winChatServer\obj\x86\Debug\winChatServer.csprojResolveAssemblyReference.cache

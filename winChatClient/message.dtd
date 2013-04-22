@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!ELEMENT message (header, body)>
+  <!ELEMENT header (protocol, id)>
+    <!ELEMENT protocol (type, version, command)>
+      <!ELEMENT type (#PCDATA)>
+      <!ELEMENT version (#PCDATA)>
+      <!ELEMENT command (#PCDATA)>
+    <!ELEMENT id (name, email, homepage, host)>
+      <!ELEMENT name (#PCDATA)>
+      <!ELEMENT email (#PCDATA)>
+      <!ELEMENT homepage (#PCDATA)>
+      <!ELEMENT host (#PCDATA)>
+  <!ELEMENT body (#PCDATA)
+>

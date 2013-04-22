@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE message SYSTEM "message.dtd">
+<message>
+  <header>
+    <protocol>
+      <type>Pellemsg</type>
+      <version>1.0 </version>
+      <command>sendMsg</command>
+    </protocol>
+    <id>
+      <name>Pelle</name>
+      <email>Pelle@team-flashkick.com</email>
+      <homepage>www.team-flashkick.com</homepage>
+      <host>host</host>
+    </id>
+  </header>
+  <body>This is the message!</body>
+</message>

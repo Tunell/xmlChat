@@ -1,0 +1,16 @@
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.csprojResolveAssemblyReference.cache
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.Properties.Resources.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.csproj.GenerateResource.Cache
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\bin\Debug\winChatServer2.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\bin\Debug\winChatServer2.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.ServerForm.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\bin\Debug\winChatServer2.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\bin\Debug\winChatServer2.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.csprojResolveAssemblyReference.cache
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.ServerForm.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.Properties.Resources.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\ConsoleApplication2\winChatServer2\obj\x86\Debug\winChatServer2.csproj.GenerateResource.Cache
